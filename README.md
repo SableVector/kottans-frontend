@@ -56,3 +56,14 @@ At present time i use Debian (WSL2 for Windows) for my web development, so i use
 **Impressions about learned materials:**
 
 It was interesting to know about the git rebase interactive - very powerful command. Understood how to collaborating with other developers and contribute to a public project.
+
+## Intro to HTML and CSS
+![](task_html_css_intro/udacity-complete.png)
+
+![](task_html_css_intro/codecademy-1.png)
+
+![](task_html_css_intro/codecademy-2.png)
+
+**Impressions about learned materials:**
+
+It was interesting to practice with grid to laying-out and positioning elements on web pages.
