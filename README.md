@@ -9,7 +9,7 @@ Self study completed tasks
 ## Front-End Basics
 - [x] 3 - Intro to HTML & CSS - `done`
 - [x] 4 - Responsive Web Design - `done`
-- [ ] 5 - HTML & CSS Practice
+- [x] 5 - HTML & CSS Practice
 - [ ] 6 - JavaScript Basics
 - [ ] 7 - Document Object Model - practice
 
@@ -76,3 +76,12 @@ It was interesting to practice with grid to laying-out and positioning elements 
 **Impressions about learned materials:**
 
 It was interesting to hear how grouped common responsive patterns. I am surprised about using devtools on mobile device, i also checked this on my phone. Very useful information about responsive tables (with data attr and before pseudo element technique).
+
+## HTML & CSS Practice (HTML-CSS-Popup)
+
+[Demo](https://sablevector.github.io/myPortfolio/kottansFrontend/html_&_css_practice/)
+
+[Code base](https://github.com/SableVector/myPortfolio/tree/main/kottansFrontend/html_%26_css_practice)
+
+**Impressions about learned materials:**
+It was interesting to use in this case HTML Details Element (details) and customizing css styles for this element. This tag has a good browser compatibility, except for IE :(
