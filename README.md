@@ -3,7 +3,7 @@ Self study completed tasks
 
 ## General
 - [x] 0 - Git and GitHub - `done` 
-- [ ] 1 - Linux CLI and Networking 
+- [x] 1 - Linux CLI and Networking - `done`
 - [ ] 2 - Git for Team Collaboration
 
 ## Front-End Basics
@@ -32,3 +32,16 @@ Self study completed tasks
 **Impressions about learned materials:**
 
 It was interesting to know about the option --amend for git commit, to alter the last commit and git log options --oneline, --decorate, --stat, --graph for convenient viewing the commit history.
+
+## Linux CLI, and HTTP
+![](task_linux_cli/quiz-1.png)
+
+![](task_linux_cli/quiz-2.png)
+
+![](task_linux_cli/quiz-3.png)
+
+![](task_linux_cli/quiz-4.png)
+
+**Impressions about learned materials:**
+
+At present time i use Debian (WSL2 for Windows) for my web development, so i use a lot of this commands. This lesson gave me good knowledges about: permissions for user and redirect output. One of the most used command `grep` to find patterns in data.
