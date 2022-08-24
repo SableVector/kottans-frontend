@@ -4,7 +4,7 @@ Self study completed tasks
 ## General
 - [x] 0 - Git and GitHub - `done` 
 - [x] 1 - Linux CLI and Networking - `done`
-- [ ] 2 - Git for Team Collaboration
+- [x] 2 - Git for Team Collaboration
 
 ## Front-End Basics
 - [ ] 3 - Intro to HTML & CSS
