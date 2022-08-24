@@ -4,11 +4,11 @@ Self study completed tasks
 ## General
 - [x] 0 - Git and GitHub - `done` 
 - [x] 1 - Linux CLI and Networking - `done`
-- [x] 2 - Git for Team Collaboration
+- [x] 2 - Git for Team Collaboration - `done`
 
 ## Front-End Basics
-- [x] 3 - Intro to HTML & CSS
-- [ ] 4 - Responsive Web Design
+- [x] 3 - Intro to HTML & CSS - `done`
+- [x] 4 - Responsive Web Design - `done`
 - [ ] 5 - HTML & CSS Practice
 - [ ] 6 - JavaScript Basics
 - [ ] 7 - Document Object Model - practice
@@ -67,3 +67,12 @@ It was interesting to know about the git rebase interactive - very powerful comm
 **Impressions about learned materials:**
 
 It was interesting to practice with grid to laying-out and positioning elements on web pages.
+
+## Responsive Web Design
+![](task_responsive_web_design/udacity-complete.png)
+
+![](task_responsive_web_design/flexboxfroggy.png)
+
+**Impressions about learned materials:**
+
+It was interesting to hear how grouped common responsive patterns. I am surprised about using devtools on mobile device, i also checked this on my phone. Very useful information about responsive tables (with data attr and before pseudo element technique).
