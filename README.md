@@ -9,8 +9,8 @@ Self study completed tasks
 ## Front-End Basics
 - [x] 3 - Intro to HTML & CSS - `done`
 - [x] 4 - Responsive Web Design - `done`
-- [x] 5 - HTML & CSS Practice
-- [ ] 6 - JavaScript Basics
+- [x] 5 - HTML & CSS Practice - `done`
+- [x] 6 - JavaScript Basics - `done`
 - [ ] 7 - Document Object Model - practice
 
 ## Advanced Topics
@@ -85,3 +85,22 @@ It was interesting to hear how grouped common responsive patterns. I am surprise
 
 **Impressions about learned materials:**
 It was interesting to use in this case HTML Details Element (details) and customizing css styles for this element. This tag has a good browser compatibility, except for IE :(
+
+## JavaScript Basics
+
+![](task_js_basics\js-basic.jpg)
+
+![](task_js_basics\es6-chellenges.jpg)
+
+![](task_js_basics\basic-data-structures.jpg)
+
+![](task_js_basics\basic-algorithm-scripting.jpg)
+
+![](task_js_basics\functional-programming.jpg)
+
+![](task_js_basics\algorithm-scripting-challenges.jpg)
+
+**Impressions about learned materials:**
+It was interesting to know that with the help of resp operator you can create a copy of the array.
+It was also interesting to know about the modular connection of scripts using Import and Export.
+It was very interesting to take tasks on Freecodecamp.
