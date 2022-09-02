@@ -88,17 +88,17 @@ It was interesting to use in this case HTML Details Element (details) and custom
 
 ## JavaScript Basics
 
-![](task_js_basics\js-basic.png)
+![](task_js_basics/js-basic.png)
 
-![](task_js_basics\es6-chellenges.png)
+![](task_js_basics/es6-chellenges.png)
 
-![](task_js_basics\basic-data-structures.png)
+![](task_js_basics/basic-data-structures.png)
 
-![](task_js_basics\basic-algorithm-scripting.png)
+![](task_js_basics/basic-algorithm-scripting.png)
 
-![](task_js_basics\functional-programming.png)
+![](task_js_basics/functional-programming.png)
 
-![](task_js_basics\algorithm-scripting-challenges.png)
+![](task_js_basics/algorithm-scripting-challenges.png)
 
 **Impressions about learned materials:**
 It was interesting to know that with the help of resp operator you can create a copy of the array.
