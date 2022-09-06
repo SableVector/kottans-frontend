@@ -104,3 +104,13 @@ It was interesting to use in this case HTML Details Element (details) and custom
 It was interesting to know that with the help of resp operator you can create a copy of the array.
 It was also interesting to know about the modular connection of scripts using Import and Export.
 It was very interesting to take tasks on Freecodecamp.
+
+## Document Object Model
+
+![](task_document_object_model/document-object-model-manipulation.png)
+
+![](task_document_object_model/intermediate-algorithm-scripting.png)
+
+[demo](https://sablevector.github.io/myPortfolio/kottansFrontend/document_object_model/)
+
+[Code base](https://github.com/SableVector/myPortfolio/tree/main/kottansFrontend/document_object_model)
