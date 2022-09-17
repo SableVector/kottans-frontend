@@ -114,3 +114,9 @@ It was very interesting to take tasks on Freecodecamp.
 [demo](https://sablevector.github.io/myPortfolio/kottansFrontend/document_object_model/)
 
 [Code base](https://github.com/SableVector/myPortfolio/tree/main/kottansFrontend/document_object_model)
+
+## A tiny js world
+
+[demo](https://sablevector.github.io/myPortfolio/kottansFrontend/a_tiny_JS_world/)
+
+[Code base](https://github.com/SableVector/myPortfolio/blob/main/kottansFrontend/a_tiny_JS_world/index.js)
